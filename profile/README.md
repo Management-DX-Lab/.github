@@ -1,6 +1,7 @@
-# 👋 Welcome to Management DX Lab | 経営DXラボへようこそ！
+# 👋 Welcome to Management DX Lab | 経営DXラボへ！
 
 **多次元世紀の心豊かなSociety 5.0の創出へ。テクノロジーと地域社会の架け橋となる実験場です。**
+
 *Bridging Technology and Local Communities for a heart-enriching Society 5.0.*
 
 経営DXラボは、AI駆動開発（AI-Driven Development）を通じて**「地方創生AX（AI Transformation）」**をリードするための政策アイデアを形にする、オープンなコミュニティです。
