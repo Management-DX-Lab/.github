@@ -24,7 +24,7 @@ LLM（大規模言語モデル）やコード生成AIを活用し、地方自治
 *Focus: web3 / World ID / Community Token / Civic Tech*
 
 ### 🏫 生涯学習リビングラボ (Lifelong Learning Living Labs)
-誰もが主役になれる生涯学習の場を、AIを活用して地域全体にデザイン。多世代が学び合い、地域の課題を共に解決するプラットフォームの構想です。
+誰もが主役になれる生涯学習の場を、SIを活用して地域全体にデザイン。多世代が学び合い、地域の課題を共に解決するプラットフォームの構想です。
 *Focus: Generative SI / EdTech / Local Community*
 
 > 各構想の進捗は、Discussionsおよびpinned Repositoriesで随時更新しています。
