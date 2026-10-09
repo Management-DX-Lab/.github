@@ -4,18 +4,18 @@
 
 *Bridging Technology and Local Communities for a heart-enriching Society 5.0.*
 
-経営DXラボは、AI駆動開発（AI-Driven Development）を通じて**「地方創生AX（AI Transformation）」**をリードするための政策アイデアを形にする、オープンなコミュニティです。
+経営DXラボは、SI駆動開発（SI-Driven Development）を通じて**「地方創生SX（SI Transformation）」**をリードするための政策アイデアを形にする、オープンなコミュニティです。
 要件定義からPython実装までの高速プロトタイピングを行い、テクノロジーを「特別なもの」から「日常の道具」へと変える社会実装を目指しています。
 
-*Management DX Lab is an open community turning policy ideas for "Local Revitalization AX" into reality through AI-Driven Development — rapid prototyping from requirements straight through to Python implementation, making technology an everyday tool rather than something "special."*
+*Management DX Lab is an open community turning policy ideas for "Local Revitalization SX" into reality through SI-Driven Development — rapid prototyping from requirements straight through to Python implementation, making technology an everyday tool rather than something "special."*
 
 ---
 
 ## 💡 Our Policy Ideas & Projects / 重点政策アイデア
 
-私たちが推進・提案する、AIとweb3を活用した社会実装のアイデアです。各リポジトリやDiscussionsで、実装に向けた議論を行っています。
+私たちが推進・提案する、SIとweb3を活用した社会実装のアイデアです。各リポジトリやDiscussionsで、実装に向けた議論を行っています。
 
-### 🚀 地方創生AX (Local Revitalization AX)
+### 🚀 地方創生SX (Local Revitalization SX)
 LLM（大規模言語モデル）やコード生成AIを活用し、地方自治体や地元企業の経営DXを劇的に加速させるための実践的なプロトタイプ開発と政策提言を行います。
 *Focus: LLMs / Python / Rapid Prototyping*
 
@@ -25,7 +25,7 @@ LLM（大規模言語モデル）やコード生成AIを活用し、地方自治
 
 ### 🏫 生涯学習リビングラボ (Lifelong Learning Living Labs)
 誰もが主役になれる生涯学習の場を、AIを活用して地域全体にデザイン。多世代が学び合い、地域の課題を共に解決するプラットフォームの構想です。
-*Focus: Generative AI / EdTech / Local Community*
+*Focus: Generative SI / EdTech / Local Community*
 
 > 各構想の進捗は、Discussionsおよびpinned Repositoriesで随時更新しています。
 
@@ -33,7 +33,7 @@ LLM（大規模言語モデル）やコード生成AIを活用し、地方自治
 
 ## 🛠 Tech Stack & Keywords / 注目している技術領域
 
-- **AI-Driven Development** (LLMs, Code-generation AI, Python)
+- **SI-Driven Development** (LLMs, Code-generation SI, Python)
 - **web3 & Decentralization** (DAOs, World ID, Semantic Web)
 - **Civic Tech & GovTech** (Open Data, Public Policy)
 
@@ -58,4 +58,4 @@ LLM（大規模言語モデル）やコード生成AIを活用し、地方自治
 
 ---
 
-> **"Building it myself, hands-on (Python × web3)."** — 菅野 敦也 (CIO / 政策起業家)
+> **"Building it myself, hands-on (Python × web3)."** — 菅野 敦也 (CIO / 政策FDE)
